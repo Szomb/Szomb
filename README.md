@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Szomb
+- 👋 Hi, I’m @Szoma
 - 👀 I’m interested in Webdesing and frontend
 - 🌱 I’m currently learning React and Vue
 - 💞️ I’m looking to collaborate on ...
