@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Szoma
 - 👀 I’m interested in Webdesigm and frontend
 - 🌱 I’m currently learning Flutter, Dart and Vue
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me szombati.marcell@gmail.com
 
 <!---
